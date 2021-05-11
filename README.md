@@ -33,16 +33,15 @@
 
 
 <h2> Stuff I worked on last week 👨‍💻 </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@poblouin&compact=True"/>
-</a>
-<br>
+
+[![poblouin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=poblouin&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2> My GitHub Stats 📊 </h2>
 
-![Metrics](https://metrics.lecoq.io/poblouin?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+![poblouin's GitHub stats](https://github-readme-stats.vercel.app/api?username=poblouin&show_icons=true&theme=synthwave)
+
 
 <h2> Some Programming Humor for you 😆 </h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave)
