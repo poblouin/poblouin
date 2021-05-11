@@ -15,8 +15,6 @@
 
 - 🌱 I’m currently learning deeper subjects in Vue.js and GraphQL. 
 
-- 👯 I’m looking to collaborate on nothing at the moment. 
-
 - 💬 Talk to me about JavaScript, Vue.js, Home Automation, Open Source. 
 
 <h2> Skills </h2>
