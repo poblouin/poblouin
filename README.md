@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning deeper subjects in Vue.js and GraphQL. 
 
-- 💬 Talk to me about JavaScript, Vue.js, Home Automation, Open Source. 
+- 💬 Talk to me about JavaScript, Vue.js, home automation, open source and birds.
 
 <h2> Skills </h2>
 <a href= https://github.com/poblouin?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
