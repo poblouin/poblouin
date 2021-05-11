@@ -43,12 +43,7 @@
 
 <h2> My GitHub Stats 📊 </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=poblouin&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poblouin&theme=default" />
-</a>
+![Metrics](https://metrics.lecoq.io/poblouin?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 <h2> Some Programming Humor for you 😆 </h2>
 
