@@ -39,7 +39,7 @@
 
 <h2> My GitHub Stats 📊 </h2>
 
-![poblouin's GitHub stats](https://github-readme-stats.vercel.app/api?username=poblouin&show_icons=true&theme=synthwave)
+![poblouin's GitHub stats](https://github-readme-stats.vercel.app/api?username=poblouin&show_icons=true&theme=synthwave&count_private=true)
 
 
 <h2> Some Programming Humor for you 😆 </h2>
