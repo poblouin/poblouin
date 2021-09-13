@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on my home automation setup using Homebridge and coding small plugins for it.
 
-- 🌱 I’m currently learning deeper subjects in Vue.js. 
+- 🌱 I’m currently learning Ruby and digging back in backend development. 
 
 - 💬 Talk to me about JavaScript, Vue.js, home automation, open source and birds.
 
