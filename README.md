@@ -32,11 +32,6 @@
 <a href = 'https://www.github.com/poblouin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<h2> Stuff I worked on last week 👨‍💻 </h2>
-
-[![poblouin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=poblouin&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h2> My GitHub Stats 📊 </h2>
 
 ![poblouin's GitHub stats](https://github-readme-stats.vercel.app/api?username=poblouin&show_icons=true&theme=synthwave&count_private=true)
