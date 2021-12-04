@@ -40,4 +40,4 @@
 
 <h2> Some Programming Humor for you 😆 </h2>
 
-![Jokes Card](https://readme-jokes-7jykze76s-poblouin.vercel.app/api)
+![Jokes Card](https://readme-jokes-iuo4hdjuq-poblouin.vercel.app/api)
