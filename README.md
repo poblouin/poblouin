@@ -34,7 +34,7 @@
 
 ![poblouin's GitHub stats](https://github-readme-stats.vercel.app/api?username=poblouin&show_icons=true&theme=synthwave&count_private=true)
 
-<h2> My Top Languages</h2>
+<h2> My Top Languages 💻 </h2>
   
 ![poblouin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poblouin&layout=compact)
 
