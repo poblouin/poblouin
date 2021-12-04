@@ -8,9 +8,6 @@
 <div size='20px'> Hi! My name is Pierre-Olivier Blouin. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
 - 🔭 I’m currently working on my home automation setup using Homebridge and coding small plugins for it.
 
 - 🌱 I’m currently learning Ruby and Rails for my new job at Wealthsimple. 
@@ -32,12 +29,12 @@
 
 <h2> My GitHub Stats 📊 </h2>
 
-![poblouin's GitHub stats](https://github-readme-stats.vercel.app/api?username=poblouin&show_icons=true&theme=synthwave&count_private=true)
+![poblouin's GitHub stats](https://github-readme-stats.vercel.app/api?username=poblouin&show_icons=true&theme=cobalt&count_private=true)
 
 <h2> My Top Languages 💻 </h2>
   
-![poblouin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poblouin&layout=compact&theme=synthwave)
+![poblouin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poblouin&layout=compact&theme=cobalt&langs_count=6)
 
 <h2> Some Programming Humor for you 😆 </h2>
 
-![Jokes Card](https://readme-jokes-iuo4hdjuq-poblouin.vercel.app/api?theme=synthwave)
+![Jokes Card](https://readme-jokes-iuo4hdjuq-poblouin.vercel.app/api?theme=cobalt)
