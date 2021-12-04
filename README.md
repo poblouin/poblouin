@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on my home automation setup using Homebridge and coding small plugins for it.
 
-- 🌱 I’m currently learning Ruby and digging back in backend development. 
+- 🌱 I’m currently learning Ruby and Rails for my new job at Wealthsimple. 
 
 - 💬  Talk to me about geeky stuff, home automation, open source and birbs.
 
@@ -21,9 +21,7 @@
 <a href= https://github.com/poblouin?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/poblouin?tab=repositories&q=&type=&language=vuejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'> </a>
 <a href= https://github.com/poblouin?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/poblouin?tab=repositories&q=&type=&language=cypress&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cypress.svg'> </a>
-<a href= https://github.com/poblouin?tab=repositories&q=&type=&language=jest&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'> </a>
-<a href= https://github.com/poblouin?tab=repositories&q=&type=&language=webpack&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg'> </a>
+<a href= https://github.com/poblouin?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'> </a>
 <a href= https://github.com/poblouin?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 
 
@@ -36,6 +34,9 @@
 
 ![poblouin's GitHub stats](https://github-readme-stats.vercel.app/api?username=poblouin&show_icons=true&theme=synthwave&count_private=true)
 
+<h2> My Top Languages</h2>
+  
+![poblouin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poblouin&layout=compact)
 
 <h2> Some Programming Humor for you 😆 </h2>
 
