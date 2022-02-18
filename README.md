@@ -1,16 +1,14 @@
 
-<h1> Hello Fellow < Developers/ >!👋 </h1>
-<p align='center'>
+<h1> Hello Fellow < Developers />!👋 </h1>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=poblouin.poblouin)
 
-</p>
 <div size='20px'> Hi! My name is Pierre-Olivier Blouin. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 - 🔭 I’m currently working on my home automation setup using Homebridge and coding small plugins for it.
 
-- 🌱 I’m currently learning Ruby and Rails for my new job at Wealthsimple. 
+- 🌱 I’m currently learning Ruby, Rails and React for my new job at Wealthsimple. 
 
 - 💬  Talk to me about geeky stuff, home automation, open source and birbs.
 
