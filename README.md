@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on my home automation setup using Homebridge and coding small plugins for it.
 
-- 🌱 I’m currently learning Ruby, Rails and React for my new job at Wealthsimple. 
+- 🌱 I’m currently learning learning to be a dad, less coding these days.
 
-- 💬  Talk to me about geeky stuff, home automation, open source and birbs.
+- 💬  Talk to me about geeky stuff, mtg, home automation, open source and birbs.
 
 <h2> Skills </h2>
 <a href= https://github.com/poblouin?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
