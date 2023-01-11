@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my home automation setup using Homebridge and coding small plugins for it.
 
-- 🌱 I’m currently learning learning to be a dad, less coding these days.
+- 🌱 I’m currently learning to be a dad, less coding these days.
 
 - 💬  Talk to me about geeky stuff, mtg, home automation, open source and birbs.
 
