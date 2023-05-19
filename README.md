@@ -1,8 +1,6 @@
 
 <h1> Hello Fellow < Developers />!👋 </h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=poblouin.poblouin)
-
 <div size='20px'> Hi! My name is Pierre-Olivier Blouin. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
