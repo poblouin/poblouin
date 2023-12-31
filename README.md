@@ -8,14 +8,15 @@
 
 - 🌱 On the personal side, I’m currently learning to be a dad so less time to work on projects at this time.
 
-- 💬 Talk to me about home automation, mtg, video games (big SNES fan), open source and birbs.
+- 💬 Talk to me about home automation, MTG, video games (big SNES fan) and birbs.
 
 <h2> Skills </h2>
+<a href= https://github.com/poblouin?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'> </a>
+<a href= https://github.com/poblouin?tab=repositories&q=&type=&language=rails&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rails.svg'> </a>
+<a href= https://github.com/poblouin?tab=repositories&q=&type=&language=rails&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> </a>
 <a href= https://github.com/poblouin?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/poblouin?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
 <a href= https://github.com/poblouin?tab=repositories&q=&type=&language=vuejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'> </a>
-<a href= https://github.com/poblouin?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'> </a>
-<a href= https://github.com/poblouin?tab=repositories&q=&type=&language=rails&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rails.svg'> </a>
 
 <h2> Connect with me 🤝 </h2>
 <a href = 'https://www.linkedin.com/in/poblouin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
