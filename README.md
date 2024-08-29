@@ -4,11 +4,11 @@
 <div size='20px'> Hi! My name is Pierre-Olivier Blouin. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-- 👨‍💻 On the professional side, I'm currently working with new technologies, mainly Kotlin and Temporal, to build an automated pipeline to process corporate actions.
+- 👨‍💻 On the professional side, I'm currently working with new technologies, mainly Kotlin and Temporal, to build an automated pipeline to process corporate actions
 
-- 🌱 On the personal side, I’m currently learning to be a dad so less time to work on projects at this time.
+- 🌱 On the personal side, I’m currently learning to be a dad so less time to work on projects at this time
 
-- 💬 Talk to me about home automation, MTG, video games (big SNES fan) and birbs.
+- 💬 Talk to me about home automation, MTG, video games (big SNES fan) and running 🏃
 
 <h2> Skills </h2>
 <a href= https://github.com/poblouin?tab=repositories&q=&type=&language=rails&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> </a>
